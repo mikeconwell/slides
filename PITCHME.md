@@ -246,9 +246,8 @@ Each correct answer will earn team 1 point.
 ## When expanding from a liquid state to a vapor state, what is the expansion ratio of a unit of Propane?
 - a. 2:1
 - b. 255:1
-- c. 270:1
+- <span style="text-decoration:underline;color:blue;font-size:1.4em;">c. 270:1</span>
 - d. 360:1
-<span style="text-decoration:underline;color:blue;font-size:1.4em;">c. 270:1</span>
 
 ---
 
@@ -286,12 +285,9 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 14
-## Who made the first modern hot air balloon flight?
-<span style="text-decoration:underline;color:blue;font-size:1.4em;"> Ed Yost </span>
-## Where?
-<span style="text-decoration:underline;color:blue;font-size:1.4em;"> Bruning, Nebraska </span>
-## When?
-<span style="text-decoration:underline;color:blue;font-size:1.4em;"> October 22, 1960 </span>
+## Who made the first modern hot air balloon flight? <span style="text-decoration:underline;color:blue;font-size:1.4em;"> Ed Yost </span> 
+## Where?  <span style="text-decoration:underline;color:blue;font-size:1.4em;"> Bruning, Nebraska </span>
+## When? <span style="text-decoration:underline;color:blue;font-size:1.4em;"> October 22, 1960 </span>
 Each correct answer will earn team 1 point.
 
 ---
