@@ -149,7 +149,7 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 21
-## In hot air balloons, propane is preferred to butane or other hydrocarbons because:
+### In hot air balloons, propane is preferred to butane or other hydrocarbons because:
 - a. It is less volatile
 - b. It is slower to vaporize
 - c. It has a lower boiling point
@@ -158,7 +158,7 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 22
-## While flying in 64&deg;F / 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
+### While flying in 64&deg;F / 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
 - a. Water in the fuel
 - b. A leak in the fuel line
 - c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
@@ -167,7 +167,7 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 23
-## What condition does a rising barometer indicate for balloon operations?
+### What condition does a rising barometer indicate for balloon operations?
 - a. Decreasing clouds and wind
 - b. Chances of thunderstorms
 - c. Approaching frontal activity
@@ -176,7 +176,7 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 24
-## It may be possible to make changes in the direction of flight in a hot air balloon by
+### It may be possible to make changes in the direction of flight in a hot air balloon by
 - a. Flying a constant atmospheric pressure gradient
 - b. Operating at different flight altitudes
 - c. Operating above the friction level if there is no gradient wind.
@@ -193,4 +193,190 @@ Each correct answer will earn team 1 point.
 # Answers
 
 --- 
+
+### Question 1
+## In 1783, the first hot air balloon got off the ground! Who designed and launched it?
+<span style="text-decoration:underline;color:blue;">Joseph and Etienne Montgolfier (or the Montgolfier brothers) </span>
+
+---
+
+### Question 2
+## In which year was the first hot air balloon flight??
+<span style="text-decoration:underline;color:blue;">1783 </span>
+
+---
+
+### Question 3
+## The first hot-air balloon passengers were animals. Who were these lucky critters?
+<span style="text-decoration:underline;color:blue;">A sheep, duck and a hen. </span>
+
+---
+
+### Question 4
+## Who was aboard the first manned untethered hot air balloon flight?
+<span style="text-decoration:underline;color:blue;">Pilatre de Rozier and Francois D&#39;Arlandes </span>
+
+---
+
+### Question 5
+## Who were the first balloonists to cross the English Channel?
+<span style="text-decoration:underline;color:blue;">Jean Pierre Blanchard and John Jefferies, in 1785 </span>
+
+---
+
+### Question 6
+## How many balloons just crossed the English Channel in an effort to set a Guinness World Record?
+<span style="text-decoration:underline;color:blue;">82 (of 85 attempting per http://www.ballooncrosschannel.com/ the official site.)  Either number will count as true as many press went with 85.</span>
+
+---
+
+### Question 7
+## In what American city did the first hot-air balloon flight occur?
+<span style="text-decoration:underline;color:blue;">Philadelphia, PA in 1793 </span>
+
+---
+
+### Question 8
+## The first rubber balloon was invented by Michael Faraday and filled with?
+<span style="text-decoration:underline;color:blue;">Hydrogen </span>
+
+---
+
+### Question 9
+## When expanding from a liquid state to a vapor state, what is the expansion ratio of a unit of Propane?
+- a. 2:1
+- b. 255:1
+- c. 270:1
+- d. 360:1
+<span style="text-decoration:underline;color:blue;">c. 270:1</span>
+
+---
+
+### Question 10
+## A gallon of water weighs 8.34 lbs.  How much does a gallon of liquid propane weigh?
+<span style="text-decoration:underline;color:blue;">4.2 lbs.</span>
+
+---
+
+### Question 11
+## Sometimes a balloon is inserted into an artery for exploration of a human being?  What is the common name for that type of procedure?
+<span style="text-decoration:underline;color:blue;">Angioplasty</span>
+
+
+---
+
+### Question 12
+## A hot air balloon is equipped with several instruments.
+- What is the name for the vertical speedometer?
+<span style="text-decoration:underline;color:blue;">Variometer </span>
+- What measures height above sea level?
+<span style="text-decoration:underline;color:blue;">Altimeter </span>
+- What measures the temperature at the top of the balloon's envelope?
+<span style="text-decoration:underline;color:blue;">Pyrometer </span>
+
+---
+
+### Question 13
+## What did a group of French nutters** attempt in February 2014?  
+
+** Shoutout to Jo Hunter
+<span style="text-decoration:underline;color:blue;">Walking a tightrope between two balloons. They didn’t make it across, but they did have parachutes! http://vimeo.com/86019637</span>
+
+---
+
+### Question 14
+## Who made the first modern hot air balloon flight?
+<span style="text-decoration:underline;color:blue;"> Ed Yost </span>
+## Where?
+<span style="text-decoration:underline;color:blue;"> Bruning, Nebraska </span>
+## When?
+<span style="text-decoration:underline;color:blue;"> October 22, 1960 </span>
+Each correct answer will earn team 1 point.
+
+---
+
+### Question 15
+#### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
+<span style="text-decoration:underline;color:blue;">Archimedes Principle</span>
+
+---
+
+### Question 16
+## Name of hybrid balloon that has a separate cell for a lighter than air gas as well as a cone below for hot air?
+<span style="text-decoration:underline;color:blue;">Roziere </span>
+
+---
+
+### Question 17
+## Name the largest manufacturer of hot air balloons in the world?
+<span style="text-decoration:underline;color:blue;">Cameron Balloons, Bristol, UK
+(includes Lindstrand, Thunder and Colt)<br />Second largest is Ultramagic in Spain</span>
+
+---
+
+### Question 18
+## Under which atmospheric conditions is balloon lift off and climb the most difficult?
+- a. Low temperature and low humidity
+- b. High temperature and low humidity
+- c. High temperature and high humidity
+<span style="text-decoration:underline;color:blue;">c. High temperature and high humidity </span>
+
+---
+
+### Question 19
+## These two guys completed the first round-the-world hot air balloon flight. Name them.
+<span style="text-decoration:underline;color:blue;"> Bertran Piccard (Switzerland) and Brian Jones (Great Britain) </span>
+- When? 
+<span style="text-decoration:underline;color:blue;">March 20, 1999
+ </span>
+
+---
+
+### Question 20
+## In 1999, the Texas Legislature designated which Texas city as the Hot Air Balloon Capital of Texas? 
+<span style="text-decoration:underline;color:blue;">Plano </span>
+
+---
+
+### Question 21
+### In hot air balloons, propane is preferred to butane or other hydrocarbons because:
+- a. It is less volatile
+- b. It is slower to vaporize
+- c. It has a lower boiling point
+<span style="text-decoration:underline;color:blue;">a. It is less volatile </span>
+
+---
+
+### Question 22
+### While flying in 64&deg;F / 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
+- a. Water in the fuel
+- b. A leak in the fuel line
+- c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
+<span style="text-decoration:underline;color:blue;">c. Vaporized fuel ... drawn from the tank... </span>
+
+---
+
+### Question 23
+### What condition does a rising barometer indicate for balloon operations?
+- a. Decreasing clouds and wind
+- b. Chances of thunderstorms
+- c. Approaching frontal activity
+<span style="text-decoration:underline;color:blue;">a. Decreasing clouds and wind</span>
+
+---
+
+### Question 24
+### It may be possible to make changes in the direction of flight in a hot air balloon by
+- a. Flying a constant atmospheric pressure gradient
+- b. Operating at different flight altitudes
+- c. Operating above the friction level if there is no gradient wind.
+<span style="text-decoration:underline;color:blue;">b. Operating at different flight altitudes</span>
+
+--- 
+
+### Question 25
+## In what country is the world's largest wicker basket?
+<span style="text-decoration:underline;color:blue;">Poland</span>
+
+---
 
