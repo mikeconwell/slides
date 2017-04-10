@@ -106,7 +106,7 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 15
-## Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
+#### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
 <span style="display:none;visibility:hidden;">Archimedes Principle</span>
 
 ---
