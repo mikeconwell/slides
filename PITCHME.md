@@ -69,7 +69,7 @@
 ---
 
 ### Question 11
-## Sometimes a ballon is inserted into an artery for exploration of a human being?  What is the common name for that type of procedure?
+## Sometimes a balloon is inserted into an artery for exploration of a human being?  What is the common name for that type of procedure?
 <span style="display:none;visibility:hidden;">Angioplasty</span>
 
 
@@ -78,16 +78,18 @@
 ### Question 12
 ## A hot air balloon is equipped with several instruments.
 - What is the name for the vertical speedometer?
-- <span style="display:none;visibility:hidden;">Variometer </span>
+<span style="display:none;visibility:hidden;">Variometer </span>
 - What measures height above sea level?
-- <span style="display:none;visibility:hidden;">Altimeter </span>
+<span style="display:none;visibility:hidden;">Altimeter </span>
 - What measures the temperature at the top of the balloon's envelope?
-- <span style="display:none;visibility:hidden;">Pyrometer </span>
+<span style="display:none;visibility:hidden;">Pyrometer </span>
 
 ---
 
 ### Question 13
-## What did a group of French nutters attempt in February 2014?  ( Shoutout to Jo Hunter )
+## What did a group of French nutters** attempt in February 2014?  
+
+** Shoutout to Jo Hunter
 <span style="display:none;visibility:hidden;">Walking a tightrope between two balloons. They didn’t make it across, but they did have parachutes! http://vimeo.com/86019637</span>
 
 ---
