@@ -54,10 +54,10 @@
 
 ### Question 9
 ## When expanding from a liquid state to a vapor state, what is the expansion ratio of a unit of Propane?
-a. 2:1
-b. 255:1
-c. 270:1
-d. 360:1
+- a. 2:1
+- b. 255:1
+- c. 270:1
+- d. 360:1
 <span style="display:none;visibility:hidden;">c. 270:1</span>
 
 ---
@@ -124,10 +124,10 @@ Each correct answer will earn team 1 point.
 
 ### Question 18
 ## Under which atmospheric conditions is balloon lift off and climb the most difficult?
-- Low temperature and low humidity
-- High temperature and low humidity
-- High temperature and high humidity
-<span style="display:none;visibility:hidden;">High temperature and high humidity </span>
+- a. Low temperature and low humidity
+- b. High temperature and low humidity
+- c. High temperature and high humidity
+<span style="display:none;visibility:hidden;">c. High temperature and high humidity </span>
 
 ---
 
@@ -148,36 +148,36 @@ Each correct answer will earn team 1 point.
 
 ### Question 21
 ## In hot air balloons, propane is preferred to butane or other hydrocarbons because:
-a. It is less volatile
-b. It is slower to vaporize
-c. It has a lower boiling point
+- a. It is less volatile
+- b. It is slower to vaporize
+- c. It has a lower boiling point
 <span style="display:none;visibility:hidden;">a. It is less volatile </span>
 
 ---
 
 ### Question 22
 ## While flying in 64&deg;F / 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
-a. Water in the fuel
-b. A leak in the fuel line
-c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
+- a. Water in the fuel
+- b. A leak in the fuel line
+- c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
 <span style="display:none;visibility:hidden;">c. Vaporized fuel ... drawn from the tank... </span>
 
 ---
 
 ### Question 23
 ## What condition does a rising barometer indicate for balloon operations?
-a. Decreasing clouds and wind
-b. Chances of thunderstorms
-c. Approaching frontal activity
+- a. Decreasing clouds and wind
+- b. Chances of thunderstorms
+- c. Approaching frontal activity
 <span style="display:none;visibility:hidden;">a. Decreasing clouds and wind</span>
 
 ---
 
 ### Question 24
 ## It may be possible to make changes in the direction of flight in a hot air balloon by
-a. Flying a constant atmospheric pressure gradient
-b. Operating at different flight altitudes
-c. Operating above the friction level if there is no gradient wind.
+- a. Flying a constant atmospheric pressure gradient
+- b. Operating at different flight altitudes
+- c. Operating above the friction level if there is no gradient wind.
 <span style="display:none;visibility:hidden;">b. Operating at different flight altitudes</span>
 
 --- 
@@ -189,4 +189,6 @@ c. Operating above the friction level if there is no gradient wind.
 ---
 
 # Answers
+
+--- 
 
