@@ -265,13 +265,10 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 12
-## A hot air balloon is equipped with several instruments.
-- What is the name for the vertical speedometer?
-<span style="text-decoration:underline;color:blue;font-size:1.4em;">Variometer </span>
-- What measures height above sea level?
-<span style="text-decoration:underline;color:blue;font-size:1.4em;">Altimeter </span>
-- What measures the temperature at the top of the balloon's envelope?
-<span style="text-decoration:underline;color:blue;font-size:1.4em;">Pyrometer </span>
+### A hot air balloon is equipped with several instruments.
+- What is the name for the vertical speedometer? <span style="text-decoration:underline;color:blue;font-size:1.1em;">Variometer </span>
+- What measures height above sea level? <span style="text-decoration:underline;color:blue;font-size:1.1em;">Altimeter </span>
+- What measures the temperature at the top of the balloon's envelope? <span style="text-decoration:underline;color:blue;font-size:1.1em;">Pyrometer </span>
 
 ---
 
@@ -285,15 +282,15 @@ Each correct answer will earn team 1 point.
 ---
 
 ### Question 14
-## Who made the first modern hot air balloon flight? <span style="text-decoration:underline;color:blue;font-size:1.4em;"> Ed Yost </span> 
-## Where?  <span style="text-decoration:underline;color:blue;font-size:1.4em;"> Bruning, Nebraska </span>
-## When? <span style="text-decoration:underline;color:blue;font-size:1.4em;"> October 22, 1960 </span>
+### Who made the first modern hot air balloon flight? <span style="text-decoration:underline;color:blue;font-size:1.0em;"> Ed Yost </span> 
+### Where?  <span style="text-decoration:underline;color:blue;font-size:1.0em;"> Bruning, Nebraska </span>
+### When? <span style="text-decoration:underline;color:blue;font-size:1.0em;"> October 22, 1960 </span>
 Each correct answer will earn team 1 point.
 
 ---
 
 ### Question 15
-#### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
+##### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
 <span style="text-decoration:underline;color:blue;font-size:1.4em;">Archimedes Principle</span>
 
 ---
