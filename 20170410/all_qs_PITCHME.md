@@ -35,7 +35,7 @@
 ---
 
 ### Question 
-## How many balloons crossed the English Channel in 2017 to set a new Guinness World Record?
+## How many balloons just crossed the English Channel in an effort to set a Guinness World Record?
 <span style="display:none;visibility:hidden;">82 (of 85 attempting per http://www.ballooncrosschannel.com/ the official site.)  Either number will count as true as many press went with 85.</span>
 
 ---
@@ -262,49 +262,6 @@ c. Operating above the friction level if there is no gradient wind.
 <span style="display:none;visibility:hidden;">Poland</span>
 
 ---
-
----
-
-### Question
-## In which year was ballooning an unofficial sport in the Olympic Games?
-a. 1896 Athens, Greece
-b. 1900 Paris, France
-c. 1972 Munich, Germany
-d. 1984 Los Angeles, USA
-<span style="display:none;visibility:hidden;">1900 Olympic Games in Paris. There were prizes in distance, duration, elevation, and target with and without stopping. In each of these events, there were three series: 1. Balloons of equal volume, handicapped in terms of ballast, 2. balloons of any volume, handicapped, 3. no handicap.</span>
-
----
-
-### Question
-## Who is the new President of the Balloon Federation of America (BFA)?
-<span style="display:none;visibility:hidden;">Cheri White</span>
-
----
-
-### Question
-## What was the title of Jules Verne's 1862 book about a balloon adventure? (Later made into a Movie)
-<span style="display:none;visibility:hidden;">Five Weeks in a Balloon</span>
-
----
-
-### Question
-## Who as the first woman licensed as a ballon pilot in the U.S. and considered the First Woman in Space
-<span style="display:none;visibility:hidden;">Jeanette Piccard</span>
-
----
-
-### Question
-### Which President was in office during the operation of "the first aircraft carrier", the *George Washington Parke Custis*
-<span style="display:none;visibility:hidden;">Abraham Lincoln</span>
-
----
-
-### 2018 Bonus Question
-## If you were to proof of General Liability insurance the balloon club, what form would you show?
-<span style="display:none;visibility:hidden;">an Acord 25, Certificate of Insurance</span>
-
----
-
 
 # Answers
 
