@@ -222,7 +222,7 @@ d. 360:1
 ---
 
 ### Question 11
-## Under which atmospheric conditions is balloon lift off and climb the most difficult?
+#### Under which atmospheric conditions is balloon lift off and climb the most difficult?
 - Low temperature and low humidity
 - High temperature and low humidity
 - High temperature and high humidity
@@ -264,7 +264,7 @@ c. Relative humidity reaches 100 percent
 --- 
 
 ### Question 16
-## In which year was ballooning an unofficial sport in the Olympic Games?
+### In which year was ballooning an unofficial sport in the Olympic Games?
 a. 1896 Athens, Greece
 b. 1900 Paris, France
 c. 1972 Munich, Germany
