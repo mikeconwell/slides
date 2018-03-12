@@ -249,7 +249,7 @@ d. 360:1
 #### While flying in 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
 a. Water in the fuel
 b. A leak in the fuel line
-c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
+*c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.*
 <span style="">c. Vaporized fuel ... drawn from the tank... </span>
 
 ---
@@ -258,7 +258,7 @@ c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main
 ## Clouds, fog, or dew will form when
 a. Water vapor condenses
 b. Water vapor is present
-c. Relative humidity reaches 100 percent
+*c. Relative humidity reaches 100 percent*
 <span style="">c. Relative humidity reaches 100 percent</span>
 
 --- 
@@ -266,10 +266,10 @@ c. Relative humidity reaches 100 percent
 ### Question 16
 ### In which year was ballooning an unofficial sport in the Olympic Games?
 a. 1896 Athens, Greece
-b. 1900 Paris, France
+*b. 1900 Paris, France*
 c. 1972 Munich, Germany
 d. 1984 Los Angeles, USA
-<span style="">1900 Olympic Games in Paris. There were prizes in distance, duration, elevation, and target with and without stopping. In each of these events, there were three series: 1. Balloons of equal volume, handicapped in terms of ballast, 2. balloons of any volume, handicapped, 3. no handicap.</span>
+1900 Olympic Games in Paris. There were prizes in distance, duration, elevation, and target with and without stopping. In each of these events, there were three series: 1. Balloons of equal volume, handicapped in terms of ballast, 2. balloons of any volume, handicapped, 3. no handicap.</span>
 
 ---
 
