@@ -45,13 +45,13 @@ d. 360:1
 ---
 
 ### Question 7
-### 'The world's a nicer place in my beautiful balloon...It wears a nicer face in my beautiful balloon...We can sing a song and sail along the silver sky...For we can fly…we can fly...Up, up, and away...' Who sang this hit song from 1967?
+#### 'The world's a nicer place in my beautiful balloon...It wears a nicer face in my beautiful balloon...We can sing a song and sail along the silver sky...For we can fly…we can fly...Up, up, and away...' Who sang this hit song from 1967?
 <span style="display:none;visibility:hidden;">Fifth Dimension </span>
 
 ---
 
 ### Question 8
-### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
+#### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
 <span style="display:none;visibility:hidden;">Archimedes Principle</span>
 
 ---
@@ -94,7 +94,7 @@ d. 360:1
 ---
 
 ### Question 14
-### While flying in 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
+#### While flying in 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
 a. Water in the fuel
 b. A leak in the fuel line
 c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
@@ -197,13 +197,13 @@ d. 360:1
 ---
 
 ### Question 7
-### 'The world's a nicer place in my beautiful balloon...It wears a nicer face in my beautiful balloon...We can sing a song and sail along the silver sky...For we can fly…we can fly...Up, up, and away...' Who sang this hit song from 1967?
+#### 'The world's a nicer place in my beautiful balloon...It wears a nicer face in my beautiful balloon...We can sing a song and sail along the silver sky...For we can fly…we can fly...Up, up, and away...' Who sang this hit song from 1967?
 <span style="">Fifth Dimension </span>
 
 ---
 
 ### Question 8
-### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
+#### Hot air balloons rise into the air because the density of the air (warmer air) inside the balloon is less dense than the air outside the balloon (cooler air). The balloon and the basket displaces a fluid that is heavier than the balloon and the basket, so it has a buoyant force acting on the system. Name this physics principle. 
 <span style="">Archimedes Principle</span>
 
 ---
@@ -246,7 +246,7 @@ d. 360:1
 ---
 
 ### Question 14
-### While flying in 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
+#### While flying in 18&deg;C air, ice begins forming on the outside of the fuel tank in use but not on the reserve tank. This would most likely be caused by:
 a. Water in the fuel
 b. A leak in the fuel line
 c. Vaporized fuel instead of liquid fuel being drawn from the tank into the main burner.
